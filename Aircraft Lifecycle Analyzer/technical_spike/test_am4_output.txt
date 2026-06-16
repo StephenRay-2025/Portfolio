@@ -1,0 +1,5 @@
+Fatal Python error: Segmentation fault
+
+Current thread 0x0000784ce81fd740 (most recent call first):
+  File "/home/ubuntu/AM4user/technical_spike/test_am4.py", line 26 in main
+  File "/home/ubuntu/AM4user/technical_spike/test_am4.py", line 102 in <module>
