@@ -8,7 +8,7 @@ The project stabilizes the initially prototyped analysis by removing the unstabl
 ## Features
 - **Aircraft Lifecycle Analyzer**: Input current/target aircraft (by shortname), quantities, route (origin & destination IATA), and utilization assumptions.
 - **ROI Comparison**: Yearly profit, additional investment, and pay‑back period.
-- **Fuel Analysis**: Fuel consumption per flight for both options (kg).
+- **Fuel Analysis**: Fuel consumption per flight for both options (lbs).
 - **CO₂ Analysis**: CO₂ emissions per flight for both options (kg).
 - **Architecture**: Clean separation of data access, analysis, and UI.
 - **Mock‑Data Fallback**: If the Parquet files cannot be read, the UI still works with realistic placeholder data.
